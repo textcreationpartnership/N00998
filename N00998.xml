@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:001192_0000_0FB0FEA7EBAE24E8"/>
-            <pb facs="tcp:001192_0001_0FB0FEA8EE429720"/>
+            <pb facs="unknown:001192_0000_0FB0FEA7EBAE24E8"/>
+            <pb facs="unknown:001192_0001_0FB0FEA8EE429720"/>
             <head>
                <hi>FALSE NEWS FROM GATH REJECTED.</hi> 
                <gap reason="illegible: indecipherable" extent="1 span">
